@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameScene.didBegin(_:):GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "body1.contactTestBitMask">
+            </PersistentString>
+            <PersistentString
+               value = "body2.contactTestBitMask">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
